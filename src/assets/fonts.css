@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'BritishCouncilSans';
+    src: url('/fonts/BritishCouncilSansW29-Bd.woff2') format('woff2'),
+        url('/fonts/BritishCouncilSansW29-Bd.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BritishCouncilSans';
+    src: url('/fonts/BritishCouncilSansW29-Rg.woff2') format('woff2'),
+        url('/fonts/BritishCouncilSansW29-Rg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* headline */
+@font-face {
+    font-family: 'BritishCouncilHeadline';
+    src: url('/fonts/BritishCouncilSansW05-Headline.woff2') format('woff2'),
+        url('/fonts/BritishCouncilSansW05-Headline.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
