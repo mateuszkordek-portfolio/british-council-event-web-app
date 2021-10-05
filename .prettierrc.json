@@ -1,0 +1,10 @@
+{
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": false,
+    "pugAttributeSeparator": "none",
+    "pugWrapAttributesThreshold": 0,
+    "pugClassNotation": "as-is",
+    "pugIdNotation": "as-is"
+}
